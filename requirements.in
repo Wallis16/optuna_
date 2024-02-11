@@ -1,0 +1,6 @@
+numpy
+optuna
+scikit-learn
+pandas
+pymongo
+python-dotenv
