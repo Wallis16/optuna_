@@ -1,6 +1,6 @@
 """<>"""
-from extract import retrieve_from_mongodb
-from transform import prepare_data
+from data.extract import retrieve_from_mongodb
+from data.transform import prepare_data
 
 def etl(username, password, database, collection_name, features):
     """<>"""
